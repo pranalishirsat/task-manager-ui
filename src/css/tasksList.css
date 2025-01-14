@@ -1,0 +1,17 @@
+/* Custom styles for the TasksList component */
+.tasks-list {
+    margin-top: 20px;
+}
+
+.task-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+    background: #f9f9f9;
+}
+
+.task-item h5 {
+    color: #007bff;
+    margin-bottom: 10px;
+}
